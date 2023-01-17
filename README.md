@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://cdn.discordapp.com/attachments/1037868575089762335/1064996590194004079/zerksdev.png"/>
+<h3 align="center">zerksdev</h3>
 
-<!--
-**zerksdev/zerksdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Programming Languages</summary>
+  <ul>
+     <li><a href="https://www.lua.org/docs.html">Lua 5.4</a></li>
+     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HyperText [HTML]</a></li>
+     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Cascading Style Sheets [CSS]</a></li>
+  </ul>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>FiveM</summary>
+  <ul>
+     <li>Owner & Developer of <a href="https://discord.gg/thetownsrp"> The Towns RP</a></li>
+    <li><strong>More things in the works, including scripts for ESX / QBCore</strong></li>
+  </ul>
+</details>
