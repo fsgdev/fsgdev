@@ -12,7 +12,7 @@
 <details>
   <summary>FiveM</summary>
   <ul>
-     <li>Owner & Developer of <a href="https://discord.gg/thetownsrp"> The Towns RP</a></li>
-    <li><strong>More things in the works, including scripts for ESX / QBCore</strong></li>
+     <li>Owner & Developer of <a href="https://discord.gg/noctanetwork"> Nocta Network</a></li>
+    <li><strong>More things in the works, including scripts for QBCore / ESX</strong></li>
   </ul>
 </details>
