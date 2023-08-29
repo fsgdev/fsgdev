@@ -1,5 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1037868575089762335/1064996590194004079/zerksdev.png"/>
-<h3 align="center">zerksdev</h3>
+<h3 align="center">fsg</h3>
 
 <details>
   <summary>Programming Languages</summary>
