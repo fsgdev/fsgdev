@@ -15,7 +15,7 @@
 <details>
   <summary>FiveM</summary>
   <ul>
-     <li>Owner & Developer of <a href="https://discord.gg/noctanetwork"> Nocta Network</a></li>
+     <li>Owner & Developer of <a href="https://discord.gg/HMjWXmth74"> The West LA</a></li>
     <li><strong>More things in the works, including scripts for QBCore / ESX</strong></li>
   </ul>
 </details>
