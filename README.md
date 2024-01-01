@@ -19,3 +19,10 @@
     <li><strong>More things in the works, including scripts for QBCore / ESX</strong></li>
   </ul>
 </details>
+
+## Visitor Counter
+  <img src="https://profile-counter.glitch.me/fsgdev/count.svg" />
+## GitHub Statistics
+>![JamesEU github stats](https://github-readme-stats.vercel.app/api?username=fsgdev&show_icons=true&hide_border=true)
+## Mostly Coded in On Public Repositories. 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fsgdev&layout=compact&langs_count=8&theme=react"/>
