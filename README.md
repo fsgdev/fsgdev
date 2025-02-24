@@ -1,6 +1,4 @@
-![alt text](https://cdn.discordapp.com/attachments/1037868575089762335/1162506987028881440/banner.png?ex=653c3000&is=6529bb00&hm=04aaed9151f05d6f8f42b8471d05657fcbeca3efe6ff079e255fc0f9ca935c5e&)
-<h3 align="center"><a href="https://fsgscripts.tebex.io">Tebex Store</a></h3>
-<h3 align="center"><a href="https://discord.gg/NCZzpR3MRN">Discord</a></h3>
+@vrp on discord.
 
 <details>
   <summary>Programming Languages</summary>
