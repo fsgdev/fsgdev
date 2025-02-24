@@ -1,4 +1,4 @@
-@vrp on discord.
+@vrdp on discord.
 
 <details>
   <summary>Programming Languages</summary>
