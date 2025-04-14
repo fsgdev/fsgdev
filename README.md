@@ -1,5 +1,7 @@
 @vrdp on discord.
 
+[fsg Scripts Discord.](https://discord.gg/NCZzpR3MRN)
+
 <details>
   <summary>Programming Languages</summary>
   <ul>
