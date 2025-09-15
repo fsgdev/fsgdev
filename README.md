@@ -26,7 +26,7 @@
   <a href="https://discord.gg/NCZzpR3MRN" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://fsgscripts.tebex.io/" target="_blank">
+  <a href="https://store.fsgscripts.com" target="_blank">
     <img src="https://img.shields.io/badge/Tebex%20Store-Explore%20Assets-00C58E?style=for-the-badge&logo=shopify&logoColor=white" alt="Tebex Store">
   </a>
 </div>
