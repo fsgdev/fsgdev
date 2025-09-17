@@ -39,7 +39,3 @@
 <h2 style="font-size: 1.8rem;">📈 GitHub Activity</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fsgdev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="fsgdev GitHub Stats">
-
-<!-- Visitor Counter -->
-<h2 style="font-size: 1.8rem;">🔢 Visitor Count</h2>
-<img src="https://profile-counter.glitch.me/fsgdev/count.svg" alt="Profile Views Counter">
