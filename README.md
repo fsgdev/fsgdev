@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://r2.fivemanage.com/yAjXtputxuQDdPZVLcaC5/bannerlong.png" alt="fsgscripts">
+</p>
+
 <!-- Introduction -->
 <h1 style="font-size: 2.5rem;">👋 Hey! I'm <strong>fsg</strong></h1>
 <p style="font-size: 1.1rem; max-width: 800px;">
